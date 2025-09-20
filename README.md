@@ -12,7 +12,7 @@ We process the PDF using [PyMuPDF](https://pymupdf.readthedocs.io) (`fitz`) to e
 - Font sizes
 - Font styles
 - Page positions
-- Text blocks hi hello
+- Text blocks
 
 We infer headings (`H1`, `H2`, `H3`) using **font size clustering and relative position**, rather than relying solely on font size.
 
